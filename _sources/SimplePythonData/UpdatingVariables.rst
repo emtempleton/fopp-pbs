@@ -179,9 +179,10 @@ easier way to do this kind of task.
 
    Which of the following statements are equivalent?
 
-.. activecode:: ac_tricky_1
+.. activecode:: ac2_14_4
     :language: python
     :autograde: unittest
+    :practice: T
 
     You have two variables (`a` and `b`) containing some values of type int.
     Rewrite 3 lines below to "swap" the values between `a` and `b` without using a new variable `c`
